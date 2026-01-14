@@ -13,6 +13,7 @@ public class Main {
         t1.start();
         t2.start();
         t3.start();
+        System.out.println("Account 1: " + account1.getBalance());
 
     }
 }
