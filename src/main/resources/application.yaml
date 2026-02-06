@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: demo-amin
+server:
+  port: 8071
+
